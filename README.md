@@ -16,8 +16,9 @@ Conceptual description of the new hybrid 2D/3D sequence and how it maintains the
 
 This repository provides an example code to reconstruct raw k-space data (from an animal study) acquired with hybrid 2D/3D pulse sequence.
 
+- Download the zip file "demo_recon_hybrid2D3D.zip" and unzip
 - Add all subfolders to your MATLAB path
-- Run "demo_recon_Hybrid2D3D.m" file
+- Navigate to the folder "DEMO_recon_hybrid2D3D" and run "demo_recon_Hybrid2D3D.m" 
 
 ## Contact
 
