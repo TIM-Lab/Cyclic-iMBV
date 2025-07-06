@@ -6,6 +6,8 @@ Detecting intramyocardial blood volume (iMBV) dynamics from end-systole (ES) to 
 
 To address the confounding effects of propagation of spin history, in-flow effects, and through-plane motion in 2D imaging, a new continuous 2D/3D “hybrid” steady-state sequence was developed, combining slice-exciting (2D) and slab-exciting (3D) RF pulses. Phase-specific myocardial T1 maps were generated using a Bloch equation-based lookup table. T1 values before and after ferumoxytol infusion were used to calculate iMBV in three coronary territories at ES and ED phases. 
 
+This work is submitted to _Magnetic Resonance in Medicine_ and currently under review.
+
 ## Overview
 
 ![Figure_3](https://github.com/user-attachments/assets/cb6210f2-c7b1-47d7-becb-69c1beb98a78)
