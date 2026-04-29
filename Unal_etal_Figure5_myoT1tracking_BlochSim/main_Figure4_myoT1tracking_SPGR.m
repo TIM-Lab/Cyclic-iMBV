@@ -2,7 +2,7 @@
 %% Hazar Benan Unal, PhD
 %% Figure 4 of Unal et al NMR in Biomedicine 2026
 %%-- This code will generate the result 
-%%-- started Dec-2016
+%%-- started Dec-2025
 
 clear all
 close all 
